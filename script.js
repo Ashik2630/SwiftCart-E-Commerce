@@ -281,7 +281,7 @@ const displayLevelProduct = (products) => {
 
     <!-- Category + Rating -->
     <div class="flex justify-between items-center text-sm">
-      <span class="bg-indigo-100 text-indigo-600 px-3 py-1 rounded-full font-medium">
+      <span class="bg-indigo-100 text-[#4f39f6] px-3 py-1 rounded-full font-medium">
         ${product.category}
       </span>
 
